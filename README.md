@@ -2,6 +2,9 @@
 
 ### Single Player
 
+> ###### Summary:
+> *It's a melee combat game, with the objetive to defeat all enemy creatures and reach the top of the castle.*
+
 #### These were the features used in this project:
 
 > - C++ and blueprints
